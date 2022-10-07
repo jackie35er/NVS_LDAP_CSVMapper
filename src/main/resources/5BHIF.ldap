@@ -1,0 +1,272 @@
+dn: cn=Alarkhanov Raid,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 1
+uidNumber: 1
+uid: 1
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 1
+sn: 1
+cn: 1
+
+dn: cn=Baumann Danièl,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 2
+uidNumber: 2
+uid: 2
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 2
+sn: 2
+cn: 2
+
+dn: cn=Brammer Hannes,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 3
+uidNumber: 3
+uid: 3
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 3
+sn: 3
+cn: 3
+
+dn: cn=Chen Junbo,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 4
+uidNumber: 4
+uid: 4
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 4
+sn: 4
+cn: 4
+
+dn: cn=Eichinger Jan,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 5
+uidNumber: 5
+uid: 5
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 5
+sn: 5
+cn: 5
+
+dn: cn=Götz Jacob,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 6
+uidNumber: 6
+uid: 6
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 6
+sn: 6
+cn: 6
+
+dn: cn=Hammerschmid Sebastian,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 7
+uidNumber: 7
+uid: 7
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 7
+sn: 7
+cn: 7
+
+dn: cn=Hrazdira Matthias,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 8
+uidNumber: 8
+uid: 8
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 8
+sn: 8
+cn: 8
+
+dn: cn=Kamper Maximilian,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 9
+uidNumber: 9
+uid: 9
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 9
+sn: 9
+cn: 9
+
+dn: cn=Kartal Efekan,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 10
+uidNumber: 10
+uid: 10
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 10
+sn: 10
+cn: 10
+
+dn: cn=Mutavdzic Gerald,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 11
+uidNumber: 11
+uid: 11
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 11
+sn: 11
+cn: 11
+
+dn: cn=Natroshvili Teimuraz,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 12
+uidNumber: 12
+uid: 12
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 12
+sn: 12
+cn: 12
+
+dn: cn=Pils Elias,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 13
+uidNumber: 13
+uid: 13
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 13
+sn: 13
+cn: 13
+
+dn: cn=Piringer Simon,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 14
+uidNumber: 14
+uid: 14
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 14
+sn: 14
+cn: 14
+
+dn: cn=Polleres Markus,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 15
+uidNumber: 15
+uid: 15
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 15
+sn: 15
+cn: 15
+
+dn: cn=Schachner Magnus,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 16
+uidNumber: 16
+uid: 16
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 16
+sn: 16
+cn: 16
+
+dn: cn=Schally Michael,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 17
+uidNumber: 17
+uid: 17
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 17
+sn: 17
+cn: 17
+
+dn: cn=Schöppl Paul,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 18
+uidNumber: 18
+uid: 18
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 18
+sn: 18
+cn: 18
+
+dn: cn=Stiefsohn Lukas,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 19
+uidNumber: 19
+uid: 19
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 19
+sn: 19
+cn: 19
+
+dn: cn=Teszar Daniel,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 20
+uidNumber: 20
+uid: 20
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 20
+sn: 20
+cn: 20
+
+dn: cn=Will Dominic,ou=users,o=if,dc=goetz,dc=lan
+gidNumber: 21
+uidNumber: 21
+uid: 21
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: posixAccount
+objectClass: top
+homeDirectory: 21
+sn: 21
+cn: 21
